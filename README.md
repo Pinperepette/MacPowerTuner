@@ -245,7 +245,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Pinperepette**
 
-- GitHub: [@pinperepette](https://github.com/pinperepette)
 - X: [@pinperepette](https://x.com/Pinperepette))
 
 ## 🙏 Acknowledgments
